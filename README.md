@@ -1,1 +1,1 @@
-# react-native-assignment-2
+# simple-clock-app
